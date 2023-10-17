@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="30Days Coding Assignments">
+  <test thread-count="5" name="Days Coding Assignments Test">
+    <classes>
+      <class name="com.cda.qa.TestCases.AmazonPageTest"/>
+    </classes>
+  </test> <!-- Days Coding Assignments Test -->
+</suite> <!-- 30Days Coding Assignments -->
